@@ -46,6 +46,6 @@ To analyze how different skills and job roles impact salary levels.
 <img width="1919" height="1018" alt="Pivot Table 3" src="https://github.com/user-attachments/assets/9d2ee2b1-dcd7-4a12-a793-b17f07ceb72e" />
 <img width="1919" height="1020" alt="Pivot Table 4" src="https://github.com/user-attachments/assets/884bd33a-7ba6-46c8-adca-b007bc77aa8d" />
 ### Key Insights
-- Average salary by job role comparison
-- Location-wise salary distribution
-- Experience vs salary trend
+* Average salary by job role comparison
+* Location-wise salary distribution
+* Experience vs salary trend
